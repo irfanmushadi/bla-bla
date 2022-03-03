@@ -10,7 +10,7 @@
     <h1>HALLO</h1>
     
     <?php
-$nilai = 90;
+$nilai = 100;
 switch ($nilai) {
  case 100:
   echo "Nilai A";
