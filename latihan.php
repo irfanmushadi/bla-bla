@@ -16,3 +16,6 @@ switch ($mobil)  {
         break; 
 } 
 ?>
+
+<?php
+
